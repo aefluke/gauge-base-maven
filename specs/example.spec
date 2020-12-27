@@ -18,7 +18,7 @@ tags: single word
 * The word "gauge" has "3" vowels.
 
 
-Vowel counts in multiple word
+Vowel counts in multiple words
 -----------------------------
 
 This is the second scenario in this specification
