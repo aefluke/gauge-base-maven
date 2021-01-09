@@ -13,3 +13,11 @@ gauge_bin
 # Gauge - java class target dir
 target
 
+
+docs
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
